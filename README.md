@@ -75,6 +75,11 @@ npm run build
 yarn build
 ```
 
+### 6. Run in Local
+```bash
+npm run dev
+```
+
 ## 🔧 Configuration
 
 ### AI Providers
