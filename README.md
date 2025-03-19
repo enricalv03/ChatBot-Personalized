@@ -4,8 +4,7 @@
 
 A modern, responsive web-based AI chat application built with React, featuring multiple AI provider integrations, theme switching, and rich messaging capabilities.
 
-![Project Demo Screenshot](![image](https://github.com/user-attachments/assets/17af2240-c477-4fce-bf17-02462a8e1484)
-)
+![Project Demo Screenshot](![image](https://github.com/enricalv03/ChatBot-Personalized/blob/main/Captura%20interface.png))
 
 ## 🌟 Features
 
@@ -137,4 +136,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Contact
 
 Enric - [Your Email or Contact Info]
-Project Link: [https://github.com/yourusername/enrics-ai-chat](https://github.com/yourusername/enrics-ai-chat)
+Project Link: [https://github.com/yourusername/enrics-ai-chat](https://github.com/enricalv03)
